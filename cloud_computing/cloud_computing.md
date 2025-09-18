@@ -9,7 +9,7 @@ It’s essentially the “brains” of cloud computing – the virtual servers, 
 
 EC2 (Elastic Compute Cloud) – Virtual machines in the cloud with full control.
 
-Lambda – Serverless, event-driven functions.
+Lambda – Serverless management, event-driven functions.
 
 ECS (Elastic Container Service) – Managed container orchestration.
 
@@ -20,13 +20,9 @@ Fargate – Serverless compute engine for containers.
 
 ### 3. Key Concepts
 
-Scalability & Elasticity – Automatically adjust resources up or down.
+Scalability & Elasticity – Automatically adjust resources vertical(up) or horizontal (down).
 
 Serverless – No need to provision or manage servers (e.g., Lambda, Fargate).
-
-Containers – Lightweight, portable, consistent environments for applications (Docker).
-
-Instance Types – Choose based on workload needs (general purpose, compute-optimized, memory-optimized, storage-optimized, accelerated computing).
 
 High Availability & Reliability – Redundancy and failover built into AWS infrastructure.
 
