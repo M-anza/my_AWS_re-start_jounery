@@ -8,7 +8,7 @@ Stay with me and learn.
 
 ## 📚 Table of Contents
 
-- [⚡ Compute](./cloud_computing/cloud_computing.md)  
+- [⚡Cloud Computing](./cloud_computing/cloud_computing.md)  
 - [🌐 Networking](./networking/Networking.md)  
 - [📦 Storage](./storage/Storage.md)  
 
