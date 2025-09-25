@@ -11,8 +11,7 @@ Stay with me and learn.
 - [⚡ Compute](./compute/Compute.md)  
 - [🌐 Networking](./networking/Networking.md)  
 - [📦 Storage](./storage/Storage.md)  
-- [🔒 Security & Identity](./security/Security.md)  
-- [🗄️ Databases](./database/Database.md)  
+
 ---
 
 
