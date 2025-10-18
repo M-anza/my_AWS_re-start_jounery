@@ -1,4 +1,4 @@
-# 🔐 AWS Security
+#  AWS Security
 
 ## 1. What is AWS Security?
 
@@ -63,7 +63,7 @@ Integrated with many AWS services (S3, EBS, RDS).
 - Use AWS Config Rules to monitor compliance.
 - Regularly review IAM policies and access logs.
 
-## 💭 Reflection
+##  Reflection
 
 AWS provides strong security tools — but it’s up to us to use them wisely.Even though AWS ensures the global infrastructure is secure, our responsibility as customers is to configure our environments correctly, manage identities carefully, and protect our data by granting the right permisions to the right person.
 

@@ -1,4 +1,4 @@
-# 📦 AWS Journey – Storage
+# AWS Journey – Storage
 
 ## 1. What is Storage in AWS?
 
@@ -35,6 +35,6 @@ Amazon S3 Glacier is a low-cost archival storage service designed for data that 
   - Standard-IA (Infrequent Access)  
   - Glacier & Glacier Deep Archive  
 
-## 💭 Reflection
+## Reflection
 
 When we store data in AWS, we are essentially handing it over to one of the most secure and durable infrastructures in the world. AWS storage services don’t just store data they keep it highly available, secure, and resilient, ensuring that even if hardware fails, our data remains intact and accessible.  
