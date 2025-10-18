@@ -1,13 +1,8 @@
 # 🌐 Networking
 
-🚀  This section covers **Networking concepts and services** in AWS.
-
----
-
-## 📌 Today’s Focus: Networking in AWS
-
 ### 1. 🌍 AWS Regions
-- **Definition**: Physical locations around the world where AWS places its data centres.  
+
+- Definition: Physical locations around the world where AWS places its data centres.  
 - **Isolation**: Each region is isolated from the others for security and fault tolerance.  
 - **Use Case**: Choose a region closest to your users for reduced latency.
 
