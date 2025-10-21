@@ -37,7 +37,6 @@ Bellow are the screenshots taken when doing labs.
 
 ![picture](../images/Picture2.jpg)
 
-
 ## Takeaways
 
 - Groups make managing permissions for multiple users easier and more secure.
