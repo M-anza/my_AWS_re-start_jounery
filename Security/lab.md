@@ -32,9 +32,7 @@ Learn how to create IAM users and groups, assign permissions, and apply the prin
 Bellow are the screenshots taken when doing labs.
 
 ![picture](../images/Picture1.jpg)
-
 ![picture](../images/Picture3.jpg)
-
 ![picture](../images/Picture2.jpg)
 
 ## Takeaways
